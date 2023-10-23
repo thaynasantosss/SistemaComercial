@@ -1,0 +1,21 @@
+form {
+    margin-top: 30%;
+    background: rgb(133, 183, 225);
+    padding: 40px;
+}
+.btn{
+    margin-top: 5%;
+}
+
+.responsive-img {
+    height: 900px;
+    margin-top: 23%;
+}
+
+label{
+    color: rgb(9, 26, 41);
+}
+
+.btn{
+    background: rgb(24, 61, 94);
+}
