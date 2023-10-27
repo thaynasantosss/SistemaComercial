@@ -2,20 +2,26 @@ form {
     margin-top: 30%;
     background: rgb(133, 183, 225);
     padding: 40px;
+    border-radius: 20px;
 }
-.btn{
-    margin-top: 5%;
-}
-
 .responsive-img {
-    height: 900px;
-    margin-top: 23%;
+    margin-top: 35%;
 }
-
 label{
     color: rgb(9, 26, 41);
 }
-
 .btn{
+    margin-top: 5%;
     background: rgb(24, 61, 94);
+}
+body{
+    background: rgb(182, 204, 224);
+}
+
+span{
+    font-size: 1.5em;
+}
+
+input{
+    color: black;
 }
